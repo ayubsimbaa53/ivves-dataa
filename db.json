@@ -1,6 +1,5 @@
 {
-    "products": [
-        {
+    "products": [{
           "id": "2",
           "ENTITY": "HUNI",
           "TOOL-NAME": "Inference simulator by HUNI",

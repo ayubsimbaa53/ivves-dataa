@@ -563,27 +563,11 @@
         {
             "name": "WP2 - TESTING TECHNIQUES FOR ML"
         },
-        {
-            "name": "WP3 - ML-DRIVEN TESTING FOR COMPLEX SYSTEMS"
-        },
-        {
-            "name": "WP3 - TESTING WITH UNCERTAINTIES FOR COMPLEX SYSTEMS"
-        },
-        {
-            "name": "WP3 - ONLINE TESTING AND MONITORING FOR COMPLEX SYSTEMS"
-        },
+       
         {
             "name": "WP4 - PATTERN RECOGNITION"
         },
-        {
-            "name": "WP4 - DATA COLLECTION, INSTRUMENTATION AND SMART PROBES"
-        },
-        {
-            "name": "WP4 - PATTERN RECOGNITION"
-        },
-        {
-            "name": "WP4 - DATA ANALYTICS IN ENGINEERING AND OPERATION"
-        },
+         
         {
             "name": "WP2 - CROSS-TASK "
         }
